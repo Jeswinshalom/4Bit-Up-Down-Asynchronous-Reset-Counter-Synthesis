@@ -70,15 +70,15 @@ used.
 
 
 #### Area report:
-<img width="1700" height="742" alt="2" src="https://github.com/user-attachments/assets/96193c31-de1a-428d-aad3-f26fdacc966e" />
+<img width="1919" height="1079" alt="1" src="https://github.com/user-attachments/assets/77724d1d-a678-4639-9f02-dc56d76ade67" />
 
 
 #### Power Report:
-<img width="838" height="410" alt="3" src="https://github.com/user-attachments/assets/cb6939fd-1518-46c8-997e-3357bff63aba" />
+<img width="1917" height="1079" alt="2" src="https://github.com/user-attachments/assets/f479b4c6-2823-40c3-99e2-ade0817ebc03" />
  
 
 #### Timing Report: 
-<img width="1129" height="644" alt="4" src="https://github.com/user-attachments/assets/dd596962-3640-447d-88b9-05041a403dab" />
+<img width="1898" height="1065" alt="3" src="https://github.com/user-attachments/assets/957f4c5c-938d-46a7-bbad-b4ee8bdc037a" />
 
 
 #### Result: 
